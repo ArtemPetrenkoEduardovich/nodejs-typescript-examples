@@ -6,6 +6,16 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+# Editor files
+# Sublime related files
+*.sublime-workspace
+*.sublime-project
+# VSCode
+*.vscode
+# Intellij files
+.idea
+*.iml
+
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
